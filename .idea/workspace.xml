@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8af8054-14d2-44b0-83d0-fe380eb607f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M6gLTnyI84yItD1uFdYI4Tx7Sh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/site/gridedge" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pradip\IdeaProjects\testenergytrackerpage\src\test\java\site\gridedge" />
+      <recent name="C:\Users\Pradip\IdeaProjects\testenergytrackerpage\src\main\java\site\gridedge" />
+      <recent name="C:\Users\Pradip\IdeaProjects\testenergytrackerpage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CukeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testenergytrackerpage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="site.gridedge.cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="site.gridedge.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="site.gridedge.cucumber.CukeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8af8054-14d2-44b0-83d0-fe380eb607f7" name="Default Changelist" comment="" />
+      <created>1677093390053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677093390053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1677099433498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1677099433498" />
+    <state x="699" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1677094068471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="324" key="#com.intellij.fileTypes.FileTypeChooser/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1677094068471" />
+    <state width="1877" height="619" key="GridCell.Tab.0.bottom" timestamp="1677257035898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="266" key="GridCell.Tab.0.bottom/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@-1280.46.1280.984" timestamp="1677093808477" />
+    <state width="1877" height="619" key="GridCell.Tab.0.bottom/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1677257035898" />
+    <state width="1236" height="371" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1677236477557" />
+    <state width="1877" height="619" key="GridCell.Tab.0.center" timestamp="1677257035898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="266" key="GridCell.Tab.0.center/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@-1280.46.1280.984" timestamp="1677093808477" />
+    <state width="1877" height="619" key="GridCell.Tab.0.center/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1677257035898" />
+    <state width="1236" height="371" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1677236477557" />
+    <state width="1877" height="619" key="GridCell.Tab.0.left" timestamp="1677257035897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="266" key="GridCell.Tab.0.left/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@-1280.46.1280.984" timestamp="1677093808476" />
+    <state width="1877" height="619" key="GridCell.Tab.0.left/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1677257035897" />
+    <state width="1236" height="371" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1677236477557" />
+    <state width="1877" height="619" key="GridCell.Tab.0.right" timestamp="1677257035898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="266" key="GridCell.Tab.0.right/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@-1280.46.1280.984" timestamp="1677093808477" />
+    <state width="1877" height="619" key="GridCell.Tab.0.right/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1677257035898" />
+    <state width="1236" height="371" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1677236477557" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1677157933684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1677157933684" />
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1677233452420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-839" y="372" key="com.intellij.ide.util.TipDialog/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@-1280.46.1280.984" timestamp="1677093842060" />
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1677233452420" />
+    <state x="342" y="216" key="new project wizard" timestamp="1677242709496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="216" key="new project wizard/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1677242709496" />
+    <state x="712" y="442" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1677098087718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="442" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/-3200.0.1280.693/-1280.46.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1677098087718" />
+  </component>
+</project>

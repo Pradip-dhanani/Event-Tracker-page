@@ -1,0 +1,115 @@
+2023-02-23 14:02:664 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-23 14:02:96 INFO  SignInPage :49 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (54880e54ee87f2fb870bcdca1e8fbbe1)] -> css selector: [placeholder=Email]]
+2023-02-23 14:02:270 INFO  SignInPage :55 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (54880e54ee87f2fb870bcdca1e8fbbe1)] -> css selector: [placeholder=Password]]
+2023-02-23 14:02:359 INFO  SignInPage :61 - Click on check box button[[ChromeDriver: chrome on WINDOWS (54880e54ee87f2fb870bcdca1e8fbbe1)] -> class name: mat-checkbox-inner-container]
+2023-02-23 14:02:524 INFO  SignInPage :67 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-23 14:02:334 INFO  SignInPage :72 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-23 14:02:572 INFO  PortfolioPage :42 - Click on Energy Tracker button[[ChromeDriver: chrome on WINDOWS (54880e54ee87f2fb870bcdca1e8fbbe1)] -> xpath: //body/app-root[1]/div[1]/div[2]/mat-drawer-container[1]/mat-drawer-content[1]/div[1]/div[2]/app-portfolio[1]/div[1]/div[2]/div[1]/div[2]/app-portfolio-card[1]/mat-card[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]]
+2023-02-23 14:02:732 INFO  EnergyTrackerPage :42 - Getting Custom Date Range text message[[ChromeDriver: chrome on WINDOWS (54880e54ee87f2fb870bcdca1e8fbbe1)] -> xpath: //span[contains(text(),'Custom Date Range')]]
+2023-02-23 17:02:651 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-23 17:02:158 INFO  SignInPage :49 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (a2f97bad96a10b6ea32dc2d3693c0a41)] -> css selector: [placeholder=Email]]
+2023-02-23 17:02:325 INFO  SignInPage :55 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (a2f97bad96a10b6ea32dc2d3693c0a41)] -> css selector: [placeholder=Password]]
+2023-02-23 17:02:428 INFO  SignInPage :61 - Click on check box button[[ChromeDriver: chrome on WINDOWS (a2f97bad96a10b6ea32dc2d3693c0a41)] -> class name: mat-checkbox-inner-container]
+2023-02-23 17:02:606 INFO  SignInPage :67 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-23 17:02:266 INFO  SignInPage :72 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-23 17:02:433 INFO  PortfolioPage :42 - Click on Energy Tracker button[[ChromeDriver: chrome on WINDOWS (a2f97bad96a10b6ea32dc2d3693c0a41)] -> xpath: //body/app-root[1]/div[1]/div[2]/mat-drawer-container[1]/mat-drawer-content[1]/div[1]/div[2]/app-portfolio[1]/div[1]/div[2]/div[1]/div[2]/app-portfolio-card[1]/mat-card[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]]
+2023-02-23 17:02:654 INFO  EnergyTrackerPage :42 - Getting Custom Date Range text messageProxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Custom Date Range')]'
+2023-02-23 17:02:318 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-23 17:02:880 INFO  SignInPage :49 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (f64e69f5f3764bbc51eeff79ba12133c)] -> css selector: [placeholder=Email]]
+2023-02-23 17:02:996 INFO  SignInPage :55 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (f64e69f5f3764bbc51eeff79ba12133c)] -> css selector: [placeholder=Password]]
+2023-02-23 17:02:99 INFO  SignInPage :61 - Click on check box button[[ChromeDriver: chrome on WINDOWS (f64e69f5f3764bbc51eeff79ba12133c)] -> class name: mat-checkbox-inner-container]
+2023-02-23 17:02:300 INFO  SignInPage :67 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-23 17:02:445 INFO  SignInPage :72 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-23 17:02:644 INFO  PortfolioPage :42 - Click on Energy Tracker button[[ChromeDriver: chrome on WINDOWS (f64e69f5f3764bbc51eeff79ba12133c)] -> xpath: //body/app-root[1]/div[1]/div[2]/mat-drawer-container[1]/mat-drawer-content[1]/div[1]/div[2]/app-portfolio[1]/div[1]/div[2]/div[1]/div[2]/app-portfolio-card[1]/mat-card[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]]
+2023-02-23 17:02:809 INFO  EnergyTrackerPage :42 - Getting Custom Date Range text message[[ChromeDriver: chrome on WINDOWS (f64e69f5f3764bbc51eeff79ba12133c)] -> xpath: //span[contains(text(),'Custom Date Range')]]
+2023-02-24 10:02:623 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 10:02:891 INFO  SignInPage :49 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (b3310d97668054a357cdf002ab4aaa5a)] -> css selector: [placeholder=Email]]
+2023-02-24 10:02:75 INFO  SignInPage :55 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (b3310d97668054a357cdf002ab4aaa5a)] -> css selector: [placeholder=Password]]
+2023-02-24 10:02:173 INFO  SignInPage :61 - Click on check box button[[ChromeDriver: chrome on WINDOWS (b3310d97668054a357cdf002ab4aaa5a)] -> class name: mat-checkbox-inner-container]
+2023-02-24 10:02:346 INFO  SignInPage :67 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 10:02:433 INFO  SignInPage :72 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 10:02:590 INFO  PortfolioPage :42 - Click on Energy Tracker button[[ChromeDriver: chrome on WINDOWS (b3310d97668054a357cdf002ab4aaa5a)] -> xpath: //body/app-root[1]/div[1]/div[2]/mat-drawer-container[1]/mat-drawer-content[1]/div[1]/div[2]/app-portfolio[1]/div[1]/div[2]/div[1]/div[2]/app-portfolio-card[1]/mat-card[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]]
+2023-02-24 10:02:417 INFO  EnergyTrackerPage :42 - Getting Custom Date Range text message[[ChromeDriver: chrome on WINDOWS (b3310d97668054a357cdf002ab4aaa5a)] -> xpath: //span[contains(text(),'Custom Date Range')]]
+2023-02-24 10:02:402 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 10:02:886 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (6926d2dfecdce5701a62560dfbccbfe4)] -> css selector: [placeholder=Email]]
+2023-02-24 10:02:104 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (6926d2dfecdce5701a62560dfbccbfe4)] -> css selector: [placeholder=Password]]
+2023-02-24 10:02:250 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (6926d2dfecdce5701a62560dfbccbfe4)] -> class name: mat-checkbox-inner-container]
+2023-02-24 10:02:613 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 11:02:701 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 11:02:01 INFO  PortfolioPage :42 - Click on Energy Tracker button[[ChromeDriver: chrome on WINDOWS (6926d2dfecdce5701a62560dfbccbfe4)] -> xpath: //body/app-root[1]/div[1]/div[2]/mat-drawer-container[1]/mat-drawer-content[1]/div[1]/div[2]/app-portfolio[1]/div[1]/div[2]/div[1]/div[2]/app-portfolio-card[1]/mat-card[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]]
+2023-02-24 11:02:845 INFO  EnergyTrackerPage :42 - Getting Custom Date Range text message[[ChromeDriver: chrome on WINDOWS (6926d2dfecdce5701a62560dfbccbfe4)] -> xpath: //span[contains(text(),'Custom Date Range')]]
+2023-02-24 13:02:74 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:511 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (690b6a49b4b08c2945186e50efd1eaf2)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:617 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (690b6a49b4b08c2945186e50efd1eaf2)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:713 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (690b6a49b4b08c2945186e50efd1eaf2)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:876 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:977 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:216 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:629 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (59951782b93cc4c44469eeb5877c294b)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:817 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (59951782b93cc4c44469eeb5877c294b)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:911 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (59951782b93cc4c44469eeb5877c294b)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:60 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:155 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:476 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:758 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:392 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (be215bde2f4b3c585bbbaf3e472253ac)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:519 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (be215bde2f4b3c585bbbaf3e472253ac)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:628 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (be215bde2f4b3c585bbbaf3e472253ac)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:832 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:883 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:925 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:337 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (4b8d2c576fd5d8e5b348b73e7edf25ad)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:463 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (4b8d2c576fd5d8e5b348b73e7edf25ad)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:556 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (4b8d2c576fd5d8e5b348b73e7edf25ad)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:725 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:767 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:927 INFO  PortfolioPage :42 - Click on Energy Tracker button[[ChromeDriver: chrome on WINDOWS (4b8d2c576fd5d8e5b348b73e7edf25ad)] -> xpath: //body/app-root[1]/div[1]/div[2]/mat-drawer-container[1]/mat-drawer-content[1]/div[1]/div[2]/app-portfolio[1]/div[1]/div[2]/div[1]/div[2]/app-portfolio-card[1]/mat-card[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]]
+2023-02-24 13:02:968 INFO  EnergyTrackerPage :42 - Getting Custom Date Range text message[[ChromeDriver: chrome on WINDOWS (4b8d2c576fd5d8e5b348b73e7edf25ad)] -> xpath: //span[contains(text(),'Custom Date Range')]]
+2023-02-24 13:02:01 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:452 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (09276be53fa00e1d4c3790a6fc6b1cd1)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:594 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (09276be53fa00e1d4c3790a6fc6b1cd1)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:719 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (09276be53fa00e1d4c3790a6fc6b1cd1)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:869 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:941 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:244 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:721 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (1627e580a18f4798850234913fc29977)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:844 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (1627e580a18f4798850234913fc29977)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:954 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (1627e580a18f4798850234913fc29977)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:110 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:155 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:312 INFO  PortfolioPage :42 - Click on Energy Tracker button[[ChromeDriver: chrome on WINDOWS (1627e580a18f4798850234913fc29977)] -> xpath: //body/app-root[1]/div[1]/div[2]/mat-drawer-container[1]/mat-drawer-content[1]/div[1]/div[2]/app-portfolio[1]/div[1]/div[2]/div[1]/div[2]/app-portfolio-card[1]/mat-card[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]]
+2023-02-24 13:02:493 INFO  EnergyTrackerPage :42 - Getting Custom Date Range text message[[ChromeDriver: chrome on WINDOWS (1627e580a18f4798850234913fc29977)] -> xpath: //span[contains(text(),'Custom Date Range')]]
+2023-02-24 13:02:544 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:197 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (1ede04593d474d5d3fe19143211b9387)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:319 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (1ede04593d474d5d3fe19143211b9387)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:414 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (1ede04593d474d5d3fe19143211b9387)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:568 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:653 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:988 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:404 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (ddd27cb4d42c508f48b9c5dd14a3feea)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:511 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (ddd27cb4d42c508f48b9c5dd14a3feea)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:607 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (ddd27cb4d42c508f48b9c5dd14a3feea)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:824 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:923 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:80 INFO  PortfolioPage :42 - Click on Energy Tracker button[[ChromeDriver: chrome on WINDOWS (ddd27cb4d42c508f48b9c5dd14a3feea)] -> xpath: //body/app-root[1]/div[1]/div[2]/mat-drawer-container[1]/mat-drawer-content[1]/div[1]/div[2]/app-portfolio[1]/div[1]/div[2]/div[1]/div[2]/app-portfolio-card[1]/mat-card[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]]
+2023-02-24 13:02:650 INFO  EnergyTrackerPage :42 - Getting Custom Date Range text message[[ChromeDriver: chrome on WINDOWS (ddd27cb4d42c508f48b9c5dd14a3feea)] -> xpath: //span[contains(text(),'Custom Date Range')]]
+2023-02-24 13:02:682 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:109 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (27a90c76990fecdc275361abd52bd031)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:218 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (27a90c76990fecdc275361abd52bd031)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:329 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (27a90c76990fecdc275361abd52bd031)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:439 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:520 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:116 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:443 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (5db291b791a6770a8bc1df1deddf4828)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:551 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (5db291b791a6770a8bc1df1deddf4828)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:645 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (5db291b791a6770a8bc1df1deddf4828)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:816 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:863 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:34 INFO  PortfolioPage :42 - Click on Energy Tracker button[[ChromeDriver: chrome on WINDOWS (5db291b791a6770a8bc1df1deddf4828)] -> xpath: //body/app-root[1]/div[1]/div[2]/mat-drawer-container[1]/mat-drawer-content[1]/div[1]/div[2]/app-portfolio[1]/div[1]/div[2]/div[1]/div[2]/app-portfolio-card[1]/mat-card[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/button[1]/span[1]/span[1]]
+2023-02-24 13:02:461 INFO  EnergyTrackerPage :42 - Getting Custom Date Range text message[[ChromeDriver: chrome on WINDOWS (5db291b791a6770a8bc1df1deddf4828)] -> xpath: //span[contains(text(),'Custom Date Range')]]
+2023-02-24 13:02:522 INFO  BrowserSelector :39 - Launching Chrome Browser
+2023-02-24 13:02:69 INFO  SignInPage :51 - Enter emailbasic.test.user@gridedge.co.ukOn Email Field[[ChromeDriver: chrome on WINDOWS (07b2f724c0254cac592c87756481e48e)] -> css selector: [placeholder=Email]]
+2023-02-24 13:02:271 INFO  SignInPage :57 - Enter password0&Mq9#i*$$RtOn password Field[[ChromeDriver: chrome on WINDOWS (07b2f724c0254cac592c87756481e48e)] -> css selector: [placeholder=Password]]
+2023-02-24 13:02:361 INFO  SignInPage :63 - Click on check box button[[ChromeDriver: chrome on WINDOWS (07b2f724c0254cac592c87756481e48e)] -> class name: mat-checkbox-inner-container]
+2023-02-24 13:02:512 INFO  SignInPage :69 - Click on Sign In buttonProxy element for: DefaultElementLocator 'By.id: signInButton'
+2023-02-24 13:02:592 INFO  SignInPage :74 - Getting porfolio title on the page Proxy element for: DefaultElementLocator 'By.id: signInButton'
